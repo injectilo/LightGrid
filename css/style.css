@@ -1,0 +1,11 @@
+.grid {
+  margin: 2em 0em;
+  overflow: hidden;
+}
+
+.grid > div {
+  	border:1px solid black;	background-color: salmon;
+  	overflow: hidden;
+  	padding: 0.51em;
+}
+
